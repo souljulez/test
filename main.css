@@ -33,5 +33,7 @@ body {
 a.sweet {
   color: #a19d92;
   text-decoration: none; }
+  a.sweet img {
+    border: 10px solid #f2c40d; }
 
 /*# sourceMappingURL=main.css.map */

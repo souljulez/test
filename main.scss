@@ -8,4 +8,7 @@
 a.sweet {
 	color: #a19d92;
 	text-decoration: none;
+		& img {
+		border: 10px solid $background-color;
+	}
 }
