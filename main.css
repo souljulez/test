@@ -36,4 +36,15 @@ a.sweet {
   a.sweet img {
     border: 10px solid #f2c40d; }
 
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0; }
+
+.clearfix {
+  display: inline-block; }
+
 /*# sourceMappingURL=main.css.map */
