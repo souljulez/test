@@ -12,3 +12,7 @@ a.sweet {
 		border: 10px solid $background-color;
 	}
 }
+
+img {
+	border: 1px solid complement($background-color);
+}
