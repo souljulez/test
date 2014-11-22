@@ -18,3 +18,7 @@ a.sweet {
 img {
 	border: 1px solid complement($background-color);
 }
+
+p {
+	color: $highlighted-text-color;
+}
