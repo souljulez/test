@@ -1,0 +1,15 @@
+%nice_margin {
+	margin: 10px 0px 5px 17px;
+}
+
+body {
+	font-family: Futura, "Trebuchet MS", sans-serif;
+}
+
+.box {
+  @include roundy(4px, blue);
+}
+
+.button {
+  @include roundy(3px, red);
+}

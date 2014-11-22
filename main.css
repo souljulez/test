@@ -1,0 +1,33 @@
+.box, .button {
+  margin: 10px 0px 5px 17px; }
+
+body {
+  font-family: Futura, "Trebuchet MS", sans-serif; }
+
+.box {
+  border-radius: 4px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px; }
+  .box a {
+    color: blue; }
+    .box a:hover {
+      color: #6699cc; }
+
+.button {
+  border-radius: 3px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px; }
+  .button a {
+    color: red; }
+    .button a:hover {
+      color: #6699cc; }
+
+.content {
+  width: 970px;
+  height: auto;
+  margin: 0px auto;
+  background: #f2c40d;
+  color: #333;
+  padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */
